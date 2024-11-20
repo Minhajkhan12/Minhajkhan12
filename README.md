@@ -45,4 +45,4 @@ Scripts and tools to simplify desktop support tasks, focusing on automation and 
 ### 🤝 Collaborations  
 I’m open to collaborating on cloud-related projects, contributing to open-source, and sharing knowledge to empower others.  
 
-Feel free to reach out or explore my repositories to learn more! 🚀  
+Feel free to reach out or explore my repositories to learn more! 
